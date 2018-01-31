@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Savory.TransformService.Contract</id>
+    <version>1.1.7</version>
+    <title>Savory.TransformService.Contract</title>
+    <authors>Harris Zhang</authors>
+    <owners>Harris Zhang</owners>
+    <licenseUrl>https://www.savory.cn</licenseUrl>
+    <projectUrl>https://www.savory.cn</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/harriszhang14/Ranta/master/Ranta.Image/Icon/RantaIcon_150_150.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Savory.TransformService.Contract</description>
+    <releaseNotes>Savory.TransformService.Contract</releaseNotes>
+    <copyright>Copyright © Harris Zhang 2016</copyright>
+    <tags>Savory.TransformService.Contract</tags>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Runtime.Serialization" targetFramework="net40" />
+      <frameworkAssembly assemblyName="System.ServiceModel" targetFramework="net40" />
+    </frameworkAssemblies>
+  </metadata>
+  <files>
+    <file src="Savory.TransformService.Contract\bin\Release\Savory.TransformService.Contract.dll" target="lib\net45" />
+    <file src="Savory.TransformService.Contract\bin\Release\Savory.TransformService.Contract.xml" target="lib\net45" />
+  </files>
+</package>
